@@ -5,4 +5,3 @@
 - 📫 How to reach me: [My CV]()
 - ⚡ Fun fact: Love music,jogging,and all good things in my life
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyy0613)](https://github.com/anuraghazra/github-readme-stats)
